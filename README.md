@@ -8,3 +8,4 @@
 - The first player to reach 100 points on GLOBAL score wins the game
 - If a player rolls consecutive 2 six's then, all his score gets lost.
 - Players can also changes the GlOBAL score.
+- According to new rule there are two dices. The player loses his current score when one of them is a 1. 
